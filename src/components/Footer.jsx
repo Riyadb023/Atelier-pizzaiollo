@@ -66,7 +66,6 @@ export default function Footer() {
 
         <div className="footer-bottom">
           <span>{t('footer.rights')}</span>
-          <span>{t('footer.demo')}</span>
         </div>
       </div>
     </footer>

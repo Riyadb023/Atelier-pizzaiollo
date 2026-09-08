@@ -23,9 +23,6 @@ function Hero() {
     <section className="hero">
       <div className="container hero-inner">
         <div>
-          <span className="hero-kicker">
-            <Stars n={4} size={12} /> {t('hero.kicker')}
-          </span>
           <h1>
             {t('hero.t1')} <span className="accent">{t('hero.accent')}</span>
             {t('hero.t2')}
@@ -43,7 +40,6 @@ function Hero() {
             <span><IconStar size={14} /> {t('hero.s1')}</span>
             <span><IconInstagram size={14} /> {t('hero.s2')}</span>
             <span><IconPin size={14} /> {t('hero.s3')}</span>
-            <span><IconHalal size={14} /> {t('hero.s4')}</span>
           </div>
         </div>
         <div className="disc-wrap">
