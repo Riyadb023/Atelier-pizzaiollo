@@ -40,3 +40,4 @@ Menu interactif (recherche + filtres + tailles L/XL), best-sellers, offres, pani
 WhatsApp par succursale, avis, 3 succursales avec cartes Google Maps intégrées, statut
 « ouvert maintenant », FR/AR RTL, UX mobile-first (barre Commander sticky), animations légères.
 # Atelier-pizzaiollo
+# Atelier-pizzaiollo
